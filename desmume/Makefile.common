@@ -33,10 +33,6 @@ SOURCES_CXX := \
 	$(CORE_DIR)/utils/decrypt/decrypt.cpp \
 	$(CORE_DIR)/utils/decrypt/header.cpp \
 	$(CORE_DIR)/utils/vfat.cpp \
-	$(CORE_DIR)/utils/tinyxml/tinystr.cpp \
-	$(CORE_DIR)/utils/tinyxml/tinyxml.cpp \
-	$(CORE_DIR)/utils/tinyxml/tinyxmlerror.cpp \
-	$(CORE_DIR)/utils/tinyxml/tinyxmlparser.cpp \
 	$(CORE_DIR)/addons/slot2_auto.cpp \
 	$(CORE_DIR)/addons/slot2_mpcf.cpp \
 	$(CORE_DIR)/addons/slot2_paddle.cpp \

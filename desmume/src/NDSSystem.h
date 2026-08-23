@@ -618,7 +618,6 @@ extern struct TCommonSettings {
 
 } CommonSettings;
 
-void NDS_RunAdvansceneAutoImport();
 
 extern int LagFrameFlag;
 extern int lastLag, TotalLagFrames;
